@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Temperature Conversion</string>
+    <string name="convertBtn">Convert</string>
+    <string name="inputHint">Enter Temperature</string>
+    <string name="btnFare">to Fahrenheit</string>
+    <string name="btnCel">to Celsius</string>
+    <string name="lblFare">Fahrenheit</string>
+    <string name="lblCel">Celsius</string>
+    <string name="tstNothingSet">Nothing entered - setting temperature to 0</string>
+</resources>
